@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm 4drielr</h1>
-<h3 align="center">A Full Stack Student from Spain</h3>
+<h3 align="center">A Junior Full Stack Student from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4drielr&label=Profile%20views&color=0e75b6&style=flat" alt="4drielr" /> </p>
 
 - 🌱 I’m currently studying **design and development of web applications**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
